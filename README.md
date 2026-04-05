@@ -1,0 +1,1 @@
+A front-end styling project that applies Sass to create a more modular and maintainable CSS architecture. Variables, mixins, partials, and component-based organization work together to improve consistency, simplify updates, and support a more efficient responsive design workflow.
